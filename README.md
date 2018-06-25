@@ -2,7 +2,9 @@
 
 Game
 
-<a href = "https://jsfiddle.net/Maximuson/Lp8z1gtf/" />
+<img src = "res/fidle.png" />
+
+<a href = "https://jsfiddle.net/Maximuson/Lp8z1gtf/" >Test on fiddle<a/>
 
 Написано на чисто JS с готовым шаблоном
 
