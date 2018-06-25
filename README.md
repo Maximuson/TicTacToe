@@ -2,6 +2,8 @@
 
 Game
 
+<script async src="//jsfiddle.net/Maximuson/Lp8z1gtf/1/embed/"></script>
+
 Написано на чисто JS с готовым шаблоном
 
 
