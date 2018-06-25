@@ -2,7 +2,7 @@
 
 Game
 
-<script async src="//jsfiddle.net/Maximuson/Lp8z1gtf/1/embed/"></script>
+<a href = "https://jsfiddle.net/Maximuson/Lp8z1gtf/" />
 
 Написано на чисто JS с готовым шаблоном
 
